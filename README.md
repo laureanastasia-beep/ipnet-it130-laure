@@ -47,8 +47,8 @@ Page de contact qui contient :
 ## Comment voir le site
 
 Ouvrir `index.html` dans un navigateur, ou accéder au site via GitHub Pages :
-`https://votre-nom.github.io/ipnet-it130-prenom-nom/contact.html`
+`https://github.com/laureanastasia-beep/ipnet-it130-laure.git`
 
 ## Auteur
 
-KOLOU ALAYI Esso-Bola laure
+KOLOU ALAYI Esso -Bola laure
