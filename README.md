@@ -8,35 +8,35 @@ L'objectif est d'apprendre les bases du développement web : structurer une page
 
 Le site est composé de 3 pages :
 
-### 1. index.html - Page d'accueil (Semaine 1)
+### 1. `index.html` - Page d'accueil (Semaine 1)
 Page de présentation personnelle avec un titre, une description, une navigation vers les autres pages et du contenu structuré en HTML.
 
-### 2. blog.html - Page de blog (Semaine 2)
+### 2. `blog.html` - Page de blog (Semaine 2)
 Page de blog contenant des articles, des images, et du contenu organisé avec une bonne hiérarchie des titres.
 
-### 3. contact.html - Page de contact (Semaine 3)
+### 3. `contact.html` - Page de contact (Semaine 3)
 Page de contact qui contient :
 - Un formulaire complet avec tous les champs
-- Des labels associés à chaque champ (for = id)
-- Une validation native HTML (required, minlength, pattern)
+- Des labels associés à chaque champ (`for` = `id`)
+- Une validation native HTML (`required`, `minlength`, `pattern`)
 - Un tableau « Mes disponibilités »
 - Un tableau « Mes compétences »
 - Une vidéo intégrée avec texte de repli
 - Un fichier audio intégré avec texte de repli
 - Des commentaires dans le code
 - Un code propre et bien indenté
-- Un seul <h1> par page et une hiérarchie des titres respectée (<h1> > <h2>)
-- Des tableaux avec <th> et scope
+- Un seul `<h1>` par page et une hiérarchie des titres respectée (`<h1>` > `<h2>`)
+- Des tableaux avec `<th>` et `scope`
 - Une navigation au clavier et des contrastes vérifiés
 
 ## Structure du dépôt
 
 | Fichier | Description |
 | :--- | :--- |
-| index.html | Page d'accueil (Semaine 1) |
-| blog.html | Page de blog (Semaine 2) |
-| contact.html | Page de contact (Semaine 3) |
-| README.md | Description du projet |
+| `index.html` | Page d'accueil (Semaine 1) |
+| `blog.html` | Page de blog (Semaine 2) |
+| `contact.html` | Page de contact (Semaine 3) |
+| `README.md` | Description du projet |
 
 ## Technologies utilisées
 
@@ -46,9 +46,9 @@ Page de contact qui contient :
 
 ## Comment voir le site
 
-Ouvrir index.html dans un navigateur, ou accéder au site via GitHub Pages :
-https://votre-nom.github.io/ipnet-it130-prenom-nom/contact.html
+Ouvrir `index.html` dans un navigateur, ou accéder au site via GitHub Pages :
+`https://votre-nom.github.io/ipnet-it130-prenom-nom/contact.html`
 
 ## Auteur
 
-KOLOU alayi Esso-bola laure 
+KOLOU ALAYI Esso-Bola laure
